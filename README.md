@@ -1,6 +1,7 @@
 # GTA4 & EFLC 日本語化手順（Steam版最新）
 執筆：2021.12.23
 
+![](https://github.com/prjct-samwest/GTA.IV.CE.JapaneseFix/blob/images/sc1.jpg)
 
 ## 特長
 - ダウングレード（→1.0.7.0）する必要なし
@@ -21,6 +22,7 @@
 - 【TLAD】 ```C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto IV\GTAIV\TLAD\common\text```   
   ※場所はインストール環境によって変わります
 
+![](https://github.com/prjct-samwest/GTA.IV.CE.JapaneseFix/blob/images/sc3.png)
   
 ### 2.Ultimate-ASI-Loader
 ダウンロードした「Ultimate-ASI-Loader」内の「dinput8.dll」をゲームディレクトリ直下に貼り付けます。「GTAIV.exe」が置いてある場所です。
@@ -32,12 +34,15 @@
 同様に、ダウンロードした「GTA.IV.CE.JapaneseFix」内の「GTA.IV.CE.JapaneseFix.asi」をゲームディレクトリ直下に貼り付けます。「GTAIV.exe」が置いてある場所です。
 - ```C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto IV\GTAIV\```  
   ※場所はインストール環境によって変わります
-  
+    
+![](https://github.com/prjct-samwest/GTA.IV.CE.JapaneseFix/blob/images/sc5.png)  
     
 ### 4.ゲームを起動し、日本語になっていたら完了です。
 DLCの2作品はデフォルトで字幕がオフになっていることがあるかもので、  
 忘れずに「オプション」→「Display」から字幕をオンにしておきましょう。  
 ※オープニング画面飛ばし等のMODを入れていると日本語表示になるまで数秒かかる場合があります。
+
+<img src="https://github.com/prjct-samwest/GTA.IV.CE.JapaneseFix/blob/images/sc2.jpg" width="400">  <img src="https://github.com/prjct-samwest/GTA.IV.CE.JapaneseFix/blob/images/sc4.jpg" width="400">
 
 ## 最後に
 - Windows10、Steam版最新（1.0.8.0）での動作を確認しています。旧バージョンやRockstar Launcher版で機能するかどうかは分かり兼ねます。
