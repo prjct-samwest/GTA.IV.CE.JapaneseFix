@@ -1,7 +1,8 @@
-# GTA4 & EFLC 日本語化手順（Steam版最新）
-執筆：2021.12.23
+# GTA4 & EFLC 日本語化手順（Steam版 最新ver1.0.8.0）
+執筆：2021.12.24
 
 ![](https://github.com/prjct-samwest/GTA.IV.CE.JapaneseFix/blob/images/sc1.jpg)
+Steam版GTAIV（Complete Edition）のDLC2作品を日本語でプレイできるようにするASIファイルを作成しました。  
 
 ## 特長
 - ダウングレード（→1.0.7.0）する必要なし
@@ -25,7 +26,7 @@
 ![](https://github.com/prjct-samwest/GTA.IV.CE.JapaneseFix/blob/images/sc3.png)
   
 ### 2.Ultimate-ASI-Loader
-ダウンロードした「Ultimate-ASI-Loader」内の「dinput8.dll」をゲームディレクトリ直下に貼り付けます。「GTAIV.exe」が置いてある場所です。
+ダウンロードした「Ultimate-ASI-Loader」内の「dinput8.dll」をゲームディレクトリ直下に貼り付けます。「GTAIV.exe」が置いてある場所です。既に導入している場合は飛ばしてください。
 - ```C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto IV\GTAIV\```  
   ※場所はインストール環境によって変わります
   
