@@ -29,7 +29,7 @@
   
     
 ### 3.GTA.IV.CE.JapaneseFix
-同様に、ダウンロードした「GTA.IV.CE.JapaneseFix」内の「GTA.IV.CE.JapaneseFix.asi」をゲームディレクトリ直下に貼り付けます。GTAIV.exe」が置いてある場所です。
+同様に、ダウンロードした「GTA.IV.CE.JapaneseFix」内の「GTA.IV.CE.JapaneseFix.asi」をゲームディレクトリ直下に貼り付けます。「GTAIV.exe」が置いてある場所です。
 - ```C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto IV\GTAIV\```  
   ※場所はインストール環境によって変わります
   
