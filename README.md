@@ -1,20 +1,21 @@
 # GTA4 & EFLC 日本語化手順（Steam版最新）
 執筆：2021.12.23
 
+
 ## 特長
-- ダウングレードする必要なし
+- ダウングレード（→1.0.7.0）する必要なし
 - 設定で英語に言語変更する必要なし（故にRockstar Launcherも日本語のまま
 - ファイルを追加するだけなので導入が簡単
 
 ## 必要なファイル
 - 日本語テキストデータ（日本語化GXT141221）　[日本語化GXT141221.zip](https://ux.getuploader.com/GTA4J/download/169)
 - Ultimate-ASI-Loader  v4.66 　[Ultimate-ASI-Loader.zip](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases)
-- GTA.IV.CE.JapaneseFix v1.0.0　[GTAIV.CE.JapaneseFix](https://github.com/prjct-samwest/GTA.IV.CE.JapaneseFix/releases)
+- GTA.IV.CE.JapaneseFix v1.0.0　[GTAIV.CE.JapaneseFix.zip](https://github.com/prjct-samwest/GTA.IV.CE.JapaneseFix/releases)
 
 ## 手順
 ### 1.日本語テキストデータ
 ダウンロードした「日本語化GXT141221」内の【TBoGT】、【TLAD】に入っている「american.gxt」を **「japanese.gxt」にリネーム** し、
-それぞれゲームディレクトリ内の対応する場所に貼り付けます。  他の.gxtファイルが入っているはずです。
+それぞれゲームディレクトリ内の対応する場所に貼り付けます。他の.gxtファイルが入っている場所です。
  
 - 【TBoGT】```C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto IV\GTAIV\TBoGT\common\text```
 - 【TLAD】 ```C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto IV\GTAIV\TLAD\common\text```   
@@ -22,15 +23,13 @@
 
   
 ### 2.Ultimate-ASI-Loader
-ダウンロードした「Ultimate-ASI-Loader」内の「dinput8.dll」をゲームディレクトリ直下に貼り付けます。  
-「GTAIV.exe」が置いてある場所です。
+ダウンロードした「Ultimate-ASI-Loader」内の「dinput8.dll」をゲームディレクトリ直下に貼り付けます。「GTAIV.exe」が置いてある場所です。
 - ```C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto IV\GTAIV\```  
   ※場所はインストール環境によって変わります
   
     
 ### 3.GTA.IV.CE.JapaneseFix
-同様に、ダウンロードした「GTA.IV.CE.JapaneseFix」内の「GTA.IV.CE.JapaneseFix.asi」をゲームディレクトリ直下に貼り付けます。  
-「GTAIV.exe」が置いてある場所です。
+同様に、ダウンロードした「GTA.IV.CE.JapaneseFix」内の「GTA.IV.CE.JapaneseFix.asi」をゲームディレクトリ直下に貼り付けます。GTAIV.exe」が置いてある場所です。
 - ```C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto IV\GTAIV\```  
   ※場所はインストール環境によって変わります
   
@@ -40,7 +39,7 @@ DLCの2作品はデフォルトで字幕がオフになっていることがあ�
 忘れずに「オプション」→「Display」から字幕をオンにしておきましょう。
 
 ## 最後に
-- Steam版でしか試していないので、旧バージョンやRockstar Launcher版は機能するかは分かり兼ねます。
+- Windows10、Steam版最新（1.0.8.0）での動作を確認しています。旧バージョンやRockstar Launcher版で機能するかどうかは分かり兼ねます。
 - これはあくまで非公式の【MOD】であるため、今後バーションアップ等によって機能しなくなる可能性があります。
 - 本MODを利用した事によるいかなる損害も作者は一切の責任を負いません。自己の責任の上でご利用下さい。
 
