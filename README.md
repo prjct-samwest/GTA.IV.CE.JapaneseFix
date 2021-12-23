@@ -44,7 +44,7 @@ Steam版GTAIV（Complete Edition）のDLC2作品を日本語でプレイでき�
 ![](https://github.com/prjct-samwest/GTA.IV.CE.JapaneseFix/blob/images/sc5.png)  
     
 ### 5.ゲームを起動し、日本語になっていたら完了です。
-DLCの2作品はデフォルトで字幕がオフになっていることがあるかもので、  
+DLCの2作品はデフォルトで字幕がオフになっていることがあるかもなので、  
 忘れずに「オプション」→「Display」から字幕をオンにしておきましょう。  
 ※オープニング画面飛ばし等のMODを入れていると日本語表示になるまで数秒かかる場合があります。
 
