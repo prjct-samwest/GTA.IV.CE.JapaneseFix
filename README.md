@@ -16,8 +16,8 @@ Steam版GTAIV（Complete Edition）のDLC2作品を日本語でプレイでき�
 
 ## 必要なファイル
 - 日本語テキストデータ（日本語化GXT141221）　[日本語化GXT141221.zip](https://ux.getuploader.com/GTA4J/download/169)
-- Ultimate-ASI-Loader  v4.66 　[Ultimate-ASI-Loader.zip](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases)
-- GTA.IV.CE.JapaneseFix v1.0.0　[GTAIV.CE.JapaneseFix.zip](https://github.com/prjct-samwest/GTA.IV.CE.JapaneseFix/releases)
+- Ultimate-ASI-Loader  v4.66 　[Ultimate-ASI-Loader.zip](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/latest/download/Ultimate-ASI-Loader.zip)
+- GTA.IV.CE.JapaneseFix v1.0.0　[GTAIV.CE.JapaneseFix.zip](https://github.com/prjct-samwest/GTA.IV.CE.JapaneseFix/releases/download/v1.0.0/GTAIV.CE.JapaneseFix.zip)
 
 ## 手順
 ### 1.GTAIV~~最新ver（1.2.0.43）~~
