@@ -1,4 +1,4 @@
-# 【PC版】Grand Theft Auto IV: The Complete EditionのDLC2作品を日本語でプレイする
+# 【PC版】Grand Theft Auto IV: The Complete EditionのDLC2作品（EFLC）を日本語でプレイする
 
 執筆：2024.11.24
 
