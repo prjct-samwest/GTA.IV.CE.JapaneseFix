@@ -1,0 +1,199 @@
+# data files
+GXT common/text
+HTML pc/html
+ANIMGRP common/data/animgrp.dat
+CARCOLS common/data/carcols.dat
+CARGRP common/data/cargrp.dat
+PEDGRP common/data/pedgrp.dat
+HANDLING common/data/handling.dat
+CARGRP common/data/cargrp.dat
+TIMECYCLE pc/data/timecyc.dat
+VEHICLEEXTRAS common/data/VehicleExtras.dat
+
+VEHOFF common/data/vehOff.csv
+
+#disable the original public_03 files
+DISABLE_FILE platform:/DATA/MAPS/INTERIORS/Generic/PUBLIC_3.IDE
+DISABLE_FILE platformimg:/data/maps/interiors/Generic/public_3
+
+#add the replacement public_03 files
+DELAYED_IDE pc/data/maps/interiors/rep_public_3.ide
+IMG pc/data/maps/interiors/rep_public_3.img
+
+
+IMGLIST common/data/images.txt
+
+
+IDE common/data/default.ide
+IDE common/data/vehicles.ide
+IDE common/data/peds.ide
+
+PLAYER pc/models/cdimages/playerped.rpf
+
+IDE pc/data/maps/props/E2_xref.ide
+IDE pc/data/maps/props/commercial/office.ide
+
+RMPTFX pc/data/effects/gta_ep2.wpfl
+
+IPL common/data/maps/SCENARIO2.ipl
+DISABLE_FILE common:/DATA/MAPS/SCENARIO2.IPL
+
+IPL common/data/maps/SCENARIOS.ipl
+DISABLE_FILE common:/DATA/MAPS/SCENARIOS.IPL
+
+
+DELAYED_IDE pc/data/maps/interiors/Int_1.ide
+DELAYED_IDE pc/data/maps/interiors/Int_2.ide
+DELAYED_IDE pc/data/maps/interiors/Int_3.ide
+DELAYED_IDE pc/data/maps/interiors/Int_4.ide
+DELAYED_IDE pc/data/maps/interiors/Int_5.ide
+DELAYED_IDE pc/data/maps/interiors/Int_6.ide
+DELAYED_IDE pc/data/maps/interiors/Int_7.ide
+DELAYED_IDE pc/data/maps/interiors/Int_8.ide
+DELAYED_IDE pc/data/maps/interiors/Int_9.ide
+
+DELAYED_IDE pc/data/maps/interiors/E2_Int_1.ide
+DELAYED_IDE pc/data/maps/interiors/E2_Int_2.ide
+DELAYED_IDE pc/data/maps/interiors/E2_Int_3.ide
+DELAYED_IDE pc/data/maps/interiors/E2_Int_4.ide
+DELAYED_IDE pc/data/maps/interiors/E2_Int_5.ide
+DELAYED_IDE pc/data/maps/interiors/E2_Int_6.ide
+DELAYED_IDE pc/data/maps/interiors/E2_Int_7.ide
+DELAYED_IDE pc/data/maps/interiors/E2_Int_8.ide
+DELAYED_IDE pc/data/maps/interiors/E2_Int_9.ide
+DELAYED_IDE pc/data/maps/interiors/E2_Int_10.ide
+DELAYED_IDE pc/data/maps/interiors/E2_Int_11.ide
+DELAYED_IDE pc/data/maps/interiors/E2_Int_12.ide
+DELAYED_IDE pc/data/maps/interiors/E2_Int_13.ide
+DELAYED_IDE pc/data/maps/interiors/E2_Int_14.ide
+DELAYED_IDE pc/data/maps/interiors/E2_Int_15.ide
+
+IDE pc/data/maps/jersey/nj_01.ide
+IPL pc/data/maps/jersey/nj_01.ipl
+IDE pc/data/maps/jersey/nj_02.ide
+IPL pc/data/maps/jersey/nj_02.ipl
+IDE pc/data/maps/jersey/nj_03.ide
+IPL pc/data/maps/jersey/nj_03.ipl
+IDE pc/data/maps/jersey/nj_04w.ide
+IPL pc/data/maps/jersey/nj_04w.ipl
+IDE pc/data/maps/jersey/nj_05.ide
+IPL pc/data/maps/jersey/nj_05.ipl
+IDE pc/data/maps/jersey/nj_docks.ide
+IPL pc/data/maps/jersey/nj_docks.ipl
+IDE pc/data/maps/jersey/nj_liberty.ide
+IPL pc/data/maps/jersey/nj_liberty.ipl
+
+IDE pc/data/maps/manhat/manhat01.ide
+IPL pc/data/maps/manhat/manhat01.ipl
+IDE pc/data/maps/manhat/manhat02.ide
+IPL pc/data/maps/manhat/manhat02.ipl
+IDE pc/data/maps/manhat/manhat03.ide
+IPL pc/data/maps/manhat/manhat03.ipl
+IDE pc/data/maps/manhat/manhat04.ide
+IPL pc/data/maps/manhat/manhat04.ipl
+IDE pc/data/maps/manhat/manhat05.ide
+IPL pc/data/maps/manhat/manhat05.ipl
+IDE pc/data/maps/manhat/manhat06.ide
+IPL pc/data/maps/manhat/manhat06.ipl
+IDE pc/data/maps/manhat/manhat07.ide
+IPL pc/data/maps/manhat/manhat07.ipl
+IDE pc/data/maps/manhat/manhat08.ide
+IPL pc/data/maps/manhat/manhat08.ipl
+IDE pc/data/maps/manhat/manhat09.ide
+IPL pc/data/maps/manhat/manhat09.ipl
+IDE pc/data/maps/manhat/manhat10.ide
+IPL pc/data/maps/manhat/manhat10.ipl
+IDE pc/data/maps/manhat/manhat11.ide
+IPL pc/data/maps/manhat/manhat11.ipl
+IDE pc/data/maps/manhat/manhat12.ide
+IPL pc/data/maps/manhat/manhat12.ipl
+
+IDE pc/data/maps/east/queens_m.ide
+IPL pc/data/maps/east/queens_m.ipl
+IDE pc/data/maps/east/queens_e.ide
+IPL pc/data/maps/east/queens_e.ipl
+IDE pc/data/maps/east/queens_w2.ide
+IPL pc/data/maps/east/queens_w2.ipl
+IDE pc/data/maps/east/bronx_e.ide
+IPL pc/data/maps/east/bronx_e.ipl
+IDE pc/data/maps/east/bronx_e2.ide
+IPL pc/data/maps/east/bronx_e2.ipl
+IDE pc/data/maps/east/brook_n.ide
+IPL pc/data/maps/east/brook_n.ipl
+IDE pc/data/maps/east/brook_n2.ide
+IPL pc/data/maps/east/brook_n2.ipl
+IDE pc/data/maps/east/bronx_w.ide
+IPL pc/data/maps/east/bronx_w.ipl
+IDE pc/data/maps/east/bronx_w2.ide
+IPL pc/data/maps/east/bronx_w2.ipl
+IDE pc/data/maps/east/brook_s.ide
+IPL pc/data/maps/east/brook_s.ipl
+IDE pc/data/maps/east/brook_s2.ide
+IPL pc/data/maps/east/brook_s2.ipl
+IPL pc/data/maps/generic/lodcull_e.ipl
+
+# this is delayed for E2 to ensure the relevant GTAIV slods have been loaded before attempting to create
+# the lodcull / streamboxes
+DELAYED_IPL pc/data/maps/generic/e2_lodcull_e.ipl
+
+
+
+IPL common/data/maps/occlu.ipl
+
+IPL common/data/maps/ambientE2.ipl
+DISABLE_FILE common:/DATA/MAPS/AMBIENT.IPL
+
+PEDPERSONALITY common/data/pedpersonality.dat
+
+WEAPONINFO common/data/weaponinfo.xml
+EXPLOSIONFX common/data/effects/explosionFx.dat
+
+PLSETTINGSMALE common/data/MalePlayerSettingsE2.dat
+PLSETTINGSFEMALE common/data/FemalePlayerSettingsE2.dat
+PLSETTINGSLIGHT common/data/PlayerSettingsLights.dat
+
+DISABLE_FILE common:/data/radiohud.dat
+DISABLE_FILE common:/data/radiologo.dat
+RADIO common/data/radiohud.dat
+RADIOLOGOS common/data/radiologo.dat
+
+FONTDAT common/data/fonts.dat
+FONTTXD pc/textures/fonts.wtd
+FONTDATR common/data/fonts_r.dat
+FONTTXDR pc/textures/fonts_r.wtd
+
+# START -- Add for GTA.IV.EFLC.JapaneseFix
+FONTDATJ common/data/fonts_j.dat
+FONTTXDJ pc/textures/fonts_j.wtd
+# END -- Add for GTA.IV.CE.JapaneseFix
+
+CREDITS common/data/credits_pc.dat
+
+HUDCOLOR common/data/hudcolor.dat
+RADARBLIPS pc/textures/blips.wtd
+
+WEAPONFX common/data/effects/weaponFx.dat
+
+FTXDFILE pc/textures/frontend.wtd
+FMENUFILE common/data/frontend_menus.xml
+
+PEDVARS common/data/pedVariations.dat
+
+HUDDAT common/data/hud.dat
+HUDTXD pc/textures/hud.wtd
+
+EPISODEVERSION common/data/EpisodeVersion.txt
+
+FONTSTRTXD pc/textures/fonts_streamed_1.wtd
+
+LBDATAFILE common/data/leaderboards_data.xml
+LBICONSFILE pc/textures/leaderboards.wtd
+TICKBOXFILE pc/textures/stats.wtd
+
+SCROLLBAR common/data/scrollbars.dat
+
+VISUALSETTINGS common/data/visualsettings.dat
+
+SAVEICON common/data/saveicon.png
+
+

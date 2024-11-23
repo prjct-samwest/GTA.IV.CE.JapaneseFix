@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{ded02688-0e07-4601-9a4e-886eb04797af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="injector">
+      <UniqueIdentifier>{231eb859-efa0-4a6b-bcb9-736769fb92e2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\Utils\DelimStringReader.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\Utils\HookInit.hpp">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\Utils\LateStaticInit.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\Utils\MemoryMgr.GTA.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\Utils\MemoryMgr.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\Utils\ModuleList.hpp">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\Utils\Patterns.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\Utils\Trampoline.h">
+      <Filter>Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\injector\assembly.hpp">
+      <Filter>injector</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\injector\calling.hpp">
+      <Filter>injector</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\injector\gvm\gvm.hpp">
+      <Filter>injector</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\injector\gvm\translator.hpp">
+      <Filter>injector</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\injector\hooking.hpp">
+      <Filter>injector</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\injector\injector.hpp">
+      <Filter>injector</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\injector\utility.hpp">
+      <Filter>injector</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\common.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\Utils\Patterns.cpp">
+      <Filter>Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\dllmain.cpp" />
+  </ItemGroup>
+</Project>
