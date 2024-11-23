@@ -1,3 +1,6 @@
 [submodule "src/Utils"]
 	path = src/Utils
 	url = https://github.com/CookiePLMonster/ModUtils.git
+[submodule "src/Injector"]
+	path = src/Injector
+	url = https://github.com/ThirteenAG/injector
