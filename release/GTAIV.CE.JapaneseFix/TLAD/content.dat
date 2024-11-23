@@ -1,0 +1,124 @@
+# data files
+GXT common/text
+HTML pc/html
+CARCOLS common/data/carcols.dat
+HANDLING common/data/handling.dat
+VEHICLEEXTRAS common/data/VehicleExtras.dat
+WEAPONINFO common/data/weaponinfo.xml
+ANIMGRP common/data/animgrp.dat
+CARGRP common/data/cargrp.dat
+PEDGRP common/data/pedgrp.dat
+POPCYCLE common/data/popcycle.dat
+TIMECYCLE pc/data/timecyc.dat
+IPL common/data/info.zon
+
+IMGLIST common/data/images.txt
+
+IDE common/data/default.ide
+IDE common/data/vehicles.ide
+
+IDE common/data/peds.ide
+PLAYER pc/models/cdimages/playerped.rpf
+
+RADARBLIPS pc/textures/blips.wtd
+
+CREDITS common/data/credits_pc.dat
+
+HUDCOLOR common/data/hudcolor.dat
+HUDTXD pc/textures/hud.wtd
+
+FONTDAT common/data/fonts.dat
+FONTTXD pc/textures/fonts.wtd
+FONTDATR common/data/fonts_r.dat
+FONTTXDR pc/textures/fonts_r.wtd
+
+# START -- Add for GTA.IV.EFLC.JapaneseFix
+FONTDATJ common/data/fonts_j.dat
+FONTTXDJ pc/textures/fonts_j.wtd
+# END -- Add for GTA.IV.CE.JapaneseFix
+
+IPL common/data/maps/SCENARIO2E1.ipl
+DISABLE_FILE common:/DATA/MAPS/SCENARIO2.IPL
+
+IDE pc/data/maps/jersey/nj_03_extra.ide
+
+IPL pc/data/maps/jersey/nj_01.ipl
+IPL pc/data/maps/jersey/nj_02.ipl
+IPL pc/data/maps/jersey/nj_03.ipl
+IPL pc/data/maps/jersey/nj_04W.ipl
+IPL pc/data/maps/jersey/nj_05.ipl
+IPL pc/data/maps/jersey/nj_docks.ipl
+IPL pc/data/maps/manhat/manhat01.ipl
+IPL pc/data/maps/manhat/manhat02.ipl
+IPL pc/data/maps/manhat/manhat05.ipl
+IPL pc/data/maps/manhat/manhat06.ipl
+IPL pc/data/maps/manhat/manhat07.ipl
+IPL pc/data/maps/manhat/manhat08.ipl
+IPL pc/data/maps/manhat/manhat09.ipl
+IPL pc/data/maps/manhat/manhat11.ipl
+IPL pc/data/maps/manhat/manhat12.ipl
+IPL pc/data/maps/east/bronx_w.ipl
+IPL pc/data/maps/east/bronx_w2.ipl
+IPL pc/data/maps/east/bronx_e2.ipl
+IPL pc/data/maps/east/bronx_e.ipl
+IPL pc/data/maps/east/brook_s.ipl
+IPL pc/data/maps/east/brook_n2.ipl
+IPL pc/data/maps/east/queens_w2.ipl
+
+IPL common/data/maps/occlu.ipl
+
+
+
+RMPTFX pc/data/effects/gta_ep1.wpfl
+
+#IDE pc/data/maps/props/residential/electrical.ide
+
+IDE pc/data/maps/props/E1_xref.ide
+
+
+DELAYED_IDE pc/data/maps/interiors/Int_1.ide
+DELAYED_IDE pc/data/maps/interiors/Int_2.ide
+DELAYED_IDE pc/data/maps/interiors/Int_3.ide
+DELAYED_IDE pc/data/maps/interiors/Int_4.ide
+DELAYED_IDE pc/data/maps/interiors/Int_5.ide
+DELAYED_IDE pc/data/maps/interiors/Int_6.ide
+DELAYED_IDE pc/data/maps/interiors/Int_7.ide
+DELAYED_IDE pc/data/maps/interiors/Int_8.ide
+DELAYED_IDE pc/data/maps/interiors/Int_9.ide
+
+IDE pc/data/maps/interiors/Int_Test.ide
+IPL pc/data/maps/interiors/Int_Test.ipl
+
+PEDPERSONALITY common/data/pedpersonality.dat
+MELEEANIMS common/data/meleeanims.dat
+ACTIONTABLE common/data/action_table_ep1.csv
+
+EXPLOSIONFX common/data/effects/explosionFx.dat
+
+VEHOFF common/data/vehOff.csv
+
+IPL common/data/maps/ambientE1.ipl
+
+FDATFILE common/data/frontend_pc.dat
+FTXDFILE pc/textures/frontend.wtd
+FMENUFILE common/data/frontend_menus.xml
+LBDATAFILE common/data/leaderboards_data.xml
+LBICONSFILE pc/textures/Leaderboards.wtd
+
+PEDVARS common/data/pedVariations.dat
+
+DISABLE_FILE common:/DATA/MAPS/AMBIENT.IPL
+
+PLSETTINGSMALE common/data/MalePlayerSettingsE1.dat
+PLSETTINGSFEMALE common/data/FemalePlayerSettingsE1.dat
+
+PLSETTINGSLIGHT common/data/PlayerSettingsLights.dat
+
+DISABLE_FILE common:/data/radiohud.dat
+DISABLE_FILE common:/data/radiologo.dat
+RADIO common/data/radiohud.dat
+RADIOLOGOS common/data/radiologo.dat
+SAVEICON common/data/saveicon.png
+
+EPISODEVERSION common/data/EpisodeVersion.txt
+
