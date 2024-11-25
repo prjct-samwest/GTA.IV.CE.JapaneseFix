@@ -1,6 +1,10 @@
 # 補足情報
 
 ## リリースノート
+- 2024/11/25 : v2.0.1
+  - 誤字修正
+
+
 - 2024/11/24 : v2.0.0
   - オプションメニューに言語切り替えボタンを追加
   - TLAD, TBoGTのフォントがGTAIVのものになっていた問題を修正
@@ -54,10 +58,10 @@ FusionFix用「frontend_menus.xml」内の
 ```
 の真下に
 ```
-<!-- START -- Add for GTA.IV.EFLC.JapaneseFix -->
+<!-- START -- Add for GTAIV.CE.JapaneseFix -->
 <options action="MENUOPT_NONE" label="" value="PREF_NULL" scaler="0" displayValue="MENU_DISPLAY_NONE"/>
 <options action="MENUOPT_ADJUST" label="Switch Language" value="PREF_CURRENT_LANGUAGE" scaler="7" displayValue="MENU_DISPLAY_NONE"/>
-<!-- END -- Add for GTA.IV.CE.JapaneseFix -->
+<!-- END -- Add for GTAIV.CE.JapaneseFix -->
 ```
 を追記してください。各ファイル2か所ずつ、計6カ所です。
 <br><br>

@@ -162,10 +162,10 @@ FONTTXD pc/textures/fonts.wtd
 FONTDATR common/data/fonts_r.dat
 FONTTXDR pc/textures/fonts_r.wtd
 
-# START -- Add for GTA.IV.EFLC.JapaneseFix
+# START -- Add for GTAIV.CE.JapaneseFix
 FONTDATJ common/data/fonts_j.dat
 FONTTXDJ pc/textures/fonts_j.wtd
-# END -- Add for GTA.IV.CE.JapaneseFix
+# END -- Add for GTAIV.CE.JapaneseFix
 
 CREDITS common/data/credits_pc.dat
 
