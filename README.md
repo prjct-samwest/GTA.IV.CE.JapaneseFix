@@ -25,7 +25,7 @@ GTAIV本編に加えて2つのDLC『ザ・ロスト・アンド・ダムド』�
 ## 必要なもの
 - 有志による日本語テキストデータ（日本語化GXT141221）　[日本語化GXT141221.zip](https://ux.getuploader.com/GTA4J/download/169)
 - Ultimate-ASI-Loader 　[Ultimate-ASI-Loader.zip](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/latest/download/Ultimate-ASI-Loader.zip)
-- GTAIV.CE.JapaneseFix v2.0.0　[GTAIV.CE.JapaneseFix.zip](https://github.com/prjct-samwest/GTAIV.CE.JapaneseFix/releases/download/v2.0.0/GTAIV.CE.JapaneseFix.zip)
+- GTAIV.CE.JapaneseFix v2.0.0　[GTAIV.CE.JapaneseFix.zip](https://github.com/prjct-samwest/GTAIV.CE.JapaneseFix/releases/download/v2.0.1/GTAIV.CE.JapaneseFix.zip)
   <br>
 
 ## 手順
