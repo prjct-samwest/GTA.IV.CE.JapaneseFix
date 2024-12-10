@@ -44,14 +44,14 @@
 <br>
 
 ## FusionFixとの併用
-当MODはThirteenAG氏の「[GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix)」最新版ｖ3.4.0との併用での動作を確認しています。
+当MODはThirteenAG氏の「[GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix)」最新版ｖ3.4.0と併用での動作を確認しています。
 
-FusionFixは『Grand Theft Auto IV: The Complete Edition』のバグ修正からグラフィックスの改善、拡張機能等を追加するMODです。
+FusionFixは『Grand Theft Auto IV: The Complete Edition』のバグ修正からグラフィックスの改善、拡張機能等を追加するMODです。  
 これを入れるだけでGTAIVにおける既存の問題の多くが解消します。ぜひ導入することをお勧めします。
 
 > [!WARNING]
-> FusionFixを導入している場合、上記の「frontend_menus.xml」ファイルが3つ競合してしまいます。  
-> そのため当MOD「GTAIV.CE.JapaneseFix」には上書き用の「update」フォルダを同封しています。  
+> FusionFixを導入すると、上記内３ファイル「frontend_menus.xml」が競合します。  
+> それを回避すべく、当MOD「GTAIV.CE.JapaneseFix」には上書き用の「update」フォルダを同封しています。  
 > このフォルダをそのままゲームディレクトリに貼り付けてください。「GTAIV.exe」が置いてある場所です。
 
 ![](./img/i_cap_03.png?raw=true)
