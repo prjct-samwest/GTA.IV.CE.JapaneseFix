@@ -43,13 +43,12 @@ GTAIVがインストールされているディレクトリを開いて、ファ
 - ```C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto IV\GTAIV\```  
   ※場所はインストール環境によって変わります
 
-![](./img/i_cap_01.png?raw=true)<br><br>
-
 ### 3.Ultimate-ASI-Loader
 ダウンロードした「Ultimate-ASI-Loader」内の「dinput8.dll」をゲームディレクトリ直下に貼り付けます。「GTAIV.exe」が置いてある場所です。
 - ```C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto IV\GTAIV\```  
   ※場所はインストール環境によって変わります<br><br>
 
+![](./img/i_cap_01.png?raw=true)<br><br>
 
 ### 4.GTAIV.CE.JapaneseFix
 同様に、ダウンロードした「GTAIV.CE.JapaneseFix」内の更に「GTAIV.CE.JapaneseFix」にある
