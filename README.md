@@ -1,12 +1,12 @@
 # 【PC版】Grand Theft Auto IV: The Complete EditionのDLC2作品（EFLC）を日本語でプレイする
 
-執筆：2024.11.24
+更新：2024.12.10
 
 ![](./img/i_ttl_01.jpg?raw=true)<br><br>
 
 ## はじめに
 2024年現在、Steamで購入できるPC版『グランド・セフト・オートIV：コンプリート・エディション』には、  
-GTAIV本編に加えて2つのDLC『ザ・ロスト・アンド・ダムド』（通称TLaD）、『バラッド・オブ・ゲイ・トニー』（通称TBoGT）が収録されています。
+GTAIV本編に加えて2つのDLC『ザ・ロスト・アンド・ダムド』（通称TLAD）、『バラッド・オブ・ゲイ・トニー』（通称TBoGT）が収録されています。
 
 **しかし、このDLC2作品は日本語に対応しておらず、  
 プレイするにはSteamの言語設定を英語にしなければなりません。**
@@ -23,28 +23,24 @@ GTAIV本編に加えて2つのDLC『ザ・ロスト・アンド・ダムド』�
 <br>
 
 ## 必要なもの
-- 有志による日本語テキストデータ（日本語化GXT141221）　[日本語化GXT141221.zip](https://ux.getuploader.com/GTA4J/download/169)
 - Ultimate-ASI-Loader 　[Ultimate-ASI-Loader.zip](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/latest/download/Ultimate-ASI-Loader.zip)
-- GTAIV.CE.JapaneseFix　[GTAIV.CE.JapaneseFix.zip](https://github.com/prjct-samwest/GTAIV.CE.JapaneseFix/releases/download/v2.0.1/GTAIV.CE.JapaneseFix.zip)
+- GTAIV.CE.JapaneseFix　[GTAIV.CE.JapaneseFix.zip](https://github.com/prjct-samwest/GTAIV.CE.JapaneseFix/releases/download/v2.1.0/GTAIV.CE.JapaneseFix.zip)
   <br>
 
 ## 手順
 ### 1.導入前の確認
 - ゲームが最新バージョンであり、問題なく起動できるか確認してください。
 - Steamの言語設定が日本語以外になっている場合は日本語に戻しておいてください。
-- 上記「必要なもの」からzipファイルを3つダウンロードしてください。
+- 上記「必要なもの」からzipファイルを2つダウンロードしてください。
 > [!WARNING]
 > 当MODは一部ゲームファイルを上書きします。  
 > すでに他のMODを使用している場合は競合に注意してください。<br>詳細は「[補足情報](NOTES.md)」をご確認ください。
 
 <br>
 
-### 2.有志による日本語テキストデータ
-ダウンロードした「日本語化GXT141221」内の【TBoGT】,【TLAD】に入っている「american.gxt」を **「japanese.gxt」にリネーム** し、それぞれゲームディレクトリ内の対応する場所に貼り付けます。  
-他の.gxtファイルが入っている場所です。
-
-- 【TBoGT】```C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto IV\GTAIV\TBoGT\common\text```
-- 【TLAD】 ```C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto IV\GTAIV\TLAD\common\text```   
+### 2.ゲームのインストールディレクトリを開く
+GTAIVがインストールされているディレクトリを開いて、ファイルを追加する準備をします。  
+- ```C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto IV\GTAIV\```  
   ※場所はインストール環境によって変わります
 
 ![](./img/i_cap_01.png?raw=true)<br><br>
@@ -58,11 +54,12 @@ GTAIV本編に加えて2つのDLC『ザ・ロスト・アンド・ダムド』�
 ### 4.GTAIV.CE.JapaneseFix
 同様に、ダウンロードした「GTAIV.CE.JapaneseFix」内の更に「GTAIV.CE.JapaneseFix」にある
 - 「common」ディレクトリ
+- 「pc」ディレクトリ
 - 「TBoGT」ディレクトリ
 - 「TLAD」ディレクトリ
 - 「GTAIV.CE.JapaneseFix.asi」
 
-の4つをゲームディレクトリ直下に貼り付けます。「GTAIV.exe」が置いてある場所です。
+の5つをゲームディレクトリ直下に貼り付けます。「GTAIV.exe」が置いてある場所です。
 
 
 - ```C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto IV\GTAIV\```  

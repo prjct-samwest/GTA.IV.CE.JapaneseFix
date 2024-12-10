@@ -7,7 +7,7 @@ signed int InitLanguageID()
     return 0;
 }
 
-signed int SwitchtLanguageID()
+signed int SwitchLanguageID()
 {
     return 6;
 }
@@ -33,7 +33,7 @@ void __cdecl sub_7870A0(int a1)
     {
         for (void* pattern : getGameLanguage)
         {
-            Memory::InjectHook(pattern, SwitchtLanguageID, PATCH_CALL);
+            Memory::InjectHook(pattern, SwitchLanguageID, PATCH_CALL);
         }
     }
 

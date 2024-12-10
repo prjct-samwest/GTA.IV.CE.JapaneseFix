@@ -76,6 +76,9 @@
     <TargetName>GTAIV.CE.JapaneseFix</TargetName>
     <TargetExt>.asi</TargetExt>
   </PropertyGroup>
+  <PropertyGroup Label="Vcpkg">
+    <VcpkgEnableManifest>true</VcpkgEnableManifest>
+  </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <ClCompile>
       <PrecompiledHeader>NotUsing</PrecompiledHeader>
@@ -90,6 +93,8 @@
       <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
       <AdditionalOptions>-std:c++latest /Zc:threadSafeInit- /Zc:strictStrings %(AdditionalOptions)</AdditionalOptions>
       <AdditionalIncludeDirectories>..\src\Injector\include\;..\src\Injector\safetyhook\;..\src\Injector\include\injector\;..\src\Injector\safetyhook\include\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <LanguageStandard>Default</LanguageStandard>
+      <LanguageStandard_C>Default</LanguageStandard_C>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>

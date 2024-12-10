@@ -1,6 +1,12 @@
 # 補足情報
 
 ## リリースノート
+- 2024/12/11 : v2.1.0
+  - TBoGT, TLADのテキストをXbox360版に準拠したものに変更（gxtファイル同封済み）
+  - フォントを高画質化
+  - ネットカフェPCにおけるメール文章が一部文字化けしていた問題を修正
+
+
 - 2024/11/25 : v2.0.1
   - 誤字修正
 
@@ -20,15 +26,20 @@
 他のMODを使用している場合、以下のファイルと競合するとゲームが正しく作動しない場合があります。ご注意ください。
 
 ```
-common/data/frontend_menus.xml
-TBoGT/common/data/fonts_j.dat
-TBoGT/common/data/frontend_menus.xml
-TBoGT/content.dat
-TBoGT/pc/textures/fonts_j.wtd
-TLAD/common/data/fonts_j.dat
-TLAD/common/data/frontend_menus.xml
-TLAD/content.dat
-TLAD/pc/textures/fonts_j.wtd
+./common/data/fonts_j.dat
+./common/data/frontend_menus.xml
+./common/text/japanese.gxt
+./pc/textures/fonts_j.wtd
+./TBoGT/common/data/fonts_j.dat
+./TBoGT/common/data/frontend_menus.xml
+./TBoGT/common/text/japanese.gxt
+./TBoGT/pc/textures/fonts_j.wtd
+./TBoGT/content.dat
+./TLAD/common/data/fonts_j.dat
+./TLAD/common/data/frontend_menus.xml
+./TLAD/common/text/japanese.gxt
+./TLAD/pc/textures/fonts_j.wtd
+./TLAD/content.dat
 ```
 <br>
 
@@ -82,10 +93,10 @@ FusionFixの設定でオープニングスキップをONにしている場合、
 
 
 # 謝辞
-このMODの制作にあたり、テキスト翻訳して頂いた有志の方々、開発上参考にさせていただいたThirteenAG氏、gennariarmando氏、CookiePLMonster氏にこの場をお借りして感謝申し上げます。この方々および長年のGTAMOD開発コミュニティの皆様の貢献無くしてこのMODは実現できませんでした。
+このMODの制作にあたり、Xbox360版テキストを公開して頂いたkagikn氏、翻訳して頂いた有志の皆様。そして開発上参考にさせていただいたThirteenAG氏、gennariarmando氏、CookiePLMonster氏にこの場をお借りして感謝申し上げます。上記の方々および長年のGTAMOD開発コミュニティの皆様の貢献無くしてこのMODは実現できませんでした。
 
 また、私はプログラミングの専門家でもなく、リバースエンジニアリングに精通しているわけでもありません。
-まだまだこのMODには問題点が多くあることは承知していますが、私の今の技術力ではこれ以上最適化することは厳しいと感じております。 
+まだまだこのMODには問題点が多くあることは承知していますが、今の私の技術力ではこれ以上最適化することは厳しいと感じております。 
 
 したがって、このMODをきっかけにより良い新たな日本語化MODが制作されること、
 しいてはロックスターゲームズ社が日本語版EFLCを公式にサポートすることを心から願っております。  
