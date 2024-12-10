@@ -1,6 +1,6 @@
 # 【PC版】Grand Theft Auto IV: The Complete EditionのDLC2作品（EFLC）を日本語でプレイする
 
-更新：2024.12.10
+更新：2024.12.11
 
 ![](./img/i_ttl_01.jpg?raw=true)<br><br>
 
