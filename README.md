@@ -41,12 +41,12 @@ GTAIV本編に加えて2つのDLC『ザ・ロスト・アンド・ダムド』�
 ### 2.ゲームのインストールディレクトリを開く
 GTAIVがインストールされているディレクトリを開いて、ファイルを追加する準備をします。  
 - ```C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto IV\GTAIV\```  
-  ※場所はインストール環境によって変わります
+  ※場所はインストール環境によって変わります<br><br>
 
 ### 3.Ultimate-ASI-Loader
 ダウンロードした「Ultimate-ASI-Loader」内の「dinput8.dll」をゲームディレクトリ直下に貼り付けます。「GTAIV.exe」が置いてある場所です。
 - ```C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto IV\GTAIV\```  
-  ※場所はインストール環境によって変わります<br><br>
+  ※場所はインストール環境によって変わります
 
 ![](./img/i_cap_01.png?raw=true)<br><br>
 
