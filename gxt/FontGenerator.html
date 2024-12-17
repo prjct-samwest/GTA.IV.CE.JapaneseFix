@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>フォントテーブル＆マップ生成ツール</title>
+    <link rel="stylesheet" href="FontGenerator/styles.css">
+</head>
+<body>
+<h1>フォントテーブル＆マップ生成ツール</h1>
+<p>テキストファイルからフォントテーブル、マップ、CSVを生成。</p>
+<form name="fontGenerator">
+    <fieldset id="input">
+        <legend>入力</legend>
+
+        <dl>
+            <dt>テキストファイル</dt>
+            <dd><label class="inputText" data-type="IV">IV.txt</label><span class="stat"></span></dd>
+            <dd><label class="inputText" data-type="TBoGT">TBoGT.txt</label><span class="stat"></span></dd>
+            <dd><label class="inputText" data-type="TLAD">TLAD.txt</label><span class="stat"></span></dd>
+            <dd><input name="success" type="hidden" value="0"></dd>
+            <dd><input name="reload" type="button" value="テキストの再読み込み"></dd>
+        </dl>
+
+        <dl>
+            <dt>フォントテーブル</dt>
+            <dd><label><input name="default" type="radio" checked>既存のテーブルを使用</label></dd>
+            <dd><label><input name="default" type="radio">IV.txt から新規作成</label></dd>
+        </dl>
+
+        <dl>
+            <dt>EFLC上書き禁止文字</dt>
+            <dd><label><input name="safetyChar" type="text" value="喪"></label></dd>
+        </dl>
+
+        <input name="generate" type="button" value="生成" disabled>
+    </fieldset>
+
+    <fieldset id="output_IV">
+        <legend>IV</legend>
+        <div class="rowBox">
+            <dl class="fontTable">
+                <dt>フォントテーブル</dt>
+                <dd><textarea name="table_IV"></textarea></dd>
+            </dl>
+            <dl class="fontMap">
+                <dt>フォントマップ</dt>
+                <dd><canvas id="map_IV" width="2048" height="2048"></canvas></dd>
+            </dl>
+        </div>
+
+        <dl class="fontCsv">
+            <dt>CSV</dt>
+            <dd><textarea name="csv_IV" rows="30"></textarea></dd>
+        </dl>
+        <dl>
+            <dt>ログ</dt>
+            <dd><textarea name="log_IV" rows="20"></textarea></dd>
+        </dl>
+    </fieldset>
+
+    <fieldset id="output_EFLC">
+        <legend>EFLC</legend>
+        <div class="rowBox">
+            <dl class="fontTable">
+                <dt>フォントテーブル</dt>
+                <dd><textarea name="table_EFLC"></textarea></dd>
+            </dl>
+            <dl class="fontMap">
+                <dt>フォントマップ</dt>
+                <dd><canvas id="map_EFLC" width="2048" height="2048"></canvas></dd>
+            </dl>
+        </div>
+        <dl class="fontCsv">
+            <dt>CSV</dt>
+            <dd><textarea name="csv_EFLC" rows="30"></textarea></dd>
+        </dl>
+        <dl>
+            <dt>ログ</dt>
+            <dd><textarea name="log_EFLC" rows="20"></textarea></dd>
+        </dl>
+    </fieldset>
+
+    <script src="FontGenerator/script.js"></script>
+</form>
+</body>
+</html>

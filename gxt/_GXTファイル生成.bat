@@ -1,0 +1,3 @@
+"GXTCompiler/gxt.exe" -i "IV.txt" -o "../release/GTAIV.CE.JapaneseFix/common/text/japanese.gxt" -t "GXTCompiler/table_IV.txt" -h1 -k JENKINS -w1 -m0
+"GXTCompiler/gxt.exe" -i "TBoGT.txt" -o "../release/GTAIV.CE.JapaneseFix/TBoGT/common/text/japanese.gxt" -t "GXTCompiler/table_EFLC.txt" -h1 -k JENKINS -w1 -m0
+"GXTCompiler/gxt.exe" -i "TLAD.txt" -o "../release/GTAIV.CE.JapaneseFix/TLAD/common/text/japanese.gxt" -t "GXTCompiler/table_EFLC.txt" -h1 -k JENKINS -w1 -m0

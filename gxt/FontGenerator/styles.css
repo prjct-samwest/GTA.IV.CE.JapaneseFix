@@ -1,0 +1,106 @@
+@charset "UTF-8";
+
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+p{
+    margin-top: .5em;
+}
+
+dl{
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+dt{
+    font-weight: bold;
+}
+
+label{
+    display: inline-block;
+    min-width: 6em;
+}
+
+fieldset{
+    margin: .5em 0;
+    padding: 1em;
+}
+
+[name="reload"]
+{
+    margin-top: .5em;
+}
+
+[name="safetyChar"]{
+    width: 17em;
+}
+
+[name="generate"]
+{
+    min-width: 20em;
+    padding: .5em;
+}
+
+#output_IV{
+    float: left;
+    width: calc(50% - 1em);
+    margin-right: 1em;
+}
+
+#output_EFLC{
+    float: left;
+    width: calc(50% - 1em);
+    margin-left: 1em;
+}
+
+textarea{
+    padding: 10px;
+    width: 100%;
+}
+
+#output_IV dd,
+#output_EFLC dd{
+    margin-left: 0;
+}
+
+#output_IV dt,
+#output_EFLC dt{
+    margin-bottom: .5em;
+}
+
+canvas{
+    max-width: 100%;
+    background: #222;
+}
+
+.rowBox{
+    display: flex;
+    gap: 1em;
+}
+
+.rowBox > *:nth-child(1){
+    display: flex;
+    flex-direction: column;
+    width: 10em;
+}
+
+.rowBox > *:nth-child(1) dd{
+    flex-grow: 1;
+}
+
+.rowBox textarea{
+    height: 100%;
+}
+
+.rowBox > *:nth-child(2){
+    flex: 1;
+}
+
+.fontCsv textarea{
+    font-size: 11px;
+}
